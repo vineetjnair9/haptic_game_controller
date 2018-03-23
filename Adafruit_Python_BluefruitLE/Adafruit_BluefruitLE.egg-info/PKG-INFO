@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Adafruit-BluefruitLE
+Version: 0.9.9
+Summary: Python library for interacting with Bluefruit LE (Bluetooth low energy) devices on Linux or OSX.
+Home-page: https://github.com/adafruit/Adafruit_Python_BluefruitLE/
+Author: Tony DiCola
+Author-email: tdicola@adafruit.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
