@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 
-"""
-Hi everyone 
-This is a simple car game developed using pygame witn python 3
-
-"""
-#__author__  = "Mohamed Hamidat, C# and python Developer, hamidatmohamed@yahoo.fr"
-
 import pygame
 import time
 import random 
