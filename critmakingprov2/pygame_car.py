@@ -249,15 +249,17 @@ def game_loop():
 
 				if event.key == pygame.K_SPACE: # count bounces
 					x_change= 0
-					y_change= 5
+					y_change= -2 ## BUG
 					speed_change=0
 					bounces += 1
 
 			if event.type == pygame.KEYUP:
 				x_change= 0
+				y_change= 0
 				speed_change=0
 
 		x += x_change
+		y += y_change
 		thing_speed += speed_change
 
 		game_display.fill(white)         
